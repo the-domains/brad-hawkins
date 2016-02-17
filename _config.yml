@@ -1,8 +1,5 @@
-layout_spectrum: 0.346543
-typography_spectrum: 0.851602
 color:
   saturation: 0.8853288
-  lightness: 0.6129848
   brandStrength: 0.4890388
   rhythmicContrast: 0.8600338
   brandColors:
@@ -11,4 +8,19 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+  lightness: 0.6129848
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.346543
+typography_spectrum: 0.851602
 name: Brad hawkins
