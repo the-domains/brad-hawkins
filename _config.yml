@@ -1,14 +1,7 @@
-color:
-  saturation: 0.8853288
-  brandStrength: 0.4890388
-  rhythmicContrast: 0.8600338
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  lightness: 0.6129848
+name: brad hawkins
+favicon: null
+layout_spectrum: 0.346543
+typography_spectrum: 0.851602
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.346543
-typography_spectrum: 0.851602
-name: Brad hawkins
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4890388
+  lightness: 0.6129848
+  saturation: 0.8853288
+  rhythmicContrast: 0.8600338
+purpose: []
