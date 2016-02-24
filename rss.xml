@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[brad hawkins]]></title>
         <description><![CDATA[brad hawkins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brad-hawkins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:39:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 23:51:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brad-hawkins/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5144c3de-be89-4b37-9f5e-efe90d890d76.jpg">]]></description>
-            <link>undefined97f3474f-83e9-46f8-88c2-3d0f1e1a78e5/index.html</link>
+            <link>https://thegrid.ai/brad-hawkins/97f3474f-83e9-46f8-88c2-3d0f1e1a78e5/index.html</link>
             <guid isPermaLink="false">97f3474f-83e9-46f8-88c2-3d0f1e1a78e5</guid>
-            <pubDate>Thu, 18 Feb 2016 00:38:44 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 23:51:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
