@@ -1,7 +1,7 @@
 name: Logo
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.85229
+layout_spectrum: 0.4961
+typography_spectrum: 0.84708
 collections:
   - index:
       path: /
