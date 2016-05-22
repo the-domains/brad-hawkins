@@ -1,4 +1,4 @@
-name: brad hawkins
+name: Logo
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.85229
@@ -34,8 +34,8 @@ color:
     - '#b44c4c'
     - '#cf8b8b'
     - '#e3bcbc'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
