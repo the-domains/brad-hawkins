@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[brad hawkins]]></title>
-        <description><![CDATA[brad hawkins]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[LoGO]]></title>
+        <description><![CDATA[LoGO]]></description>
+        <link>https://thegrid.ai/brad-hawkins/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 05:10:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 21:20:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brad-hawkins/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4d5443b-0814-4405-a10f-674bad0ebdf2.gif">]]></description>
-            <link>undefined13b3395f-cf28-4f0e-9a3a-fd0aecfd3355/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41ace2eb1136a0c595089c4cd2476c48ee1cb5e6.gif" alt="" title="" />]]></description>
+            <link>https://thegrid.ai/brad-hawkins/13b3395f-cf28-4f0e-9a3a-fd0aecfd3355/index.html</link>
             <guid isPermaLink="false">13b3395f-cf28-4f0e-9a3a-fd0aecfd3355</guid>
-            <pubDate>Sat, 21 May 2016 05:08:50 GMT</pubDate>
+            <pubDate>Sun, 22 May 2016 21:20:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
